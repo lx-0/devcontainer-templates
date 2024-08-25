@@ -1,0 +1,11 @@
+{
+	"id": "_sample-mini",
+	"version": "0.0.1",
+	"name": "Sample Mini",
+	"description": "A sample mini Dev Container template",
+	"documentationURL": "https://github.com/lx-0/devcontainer-templates/tree/master/src/_sample-mini",
+	"publisher": "lx-0",
+	"licenseURL": "https://github.com/lx-0/devcontainer-templates/blob/master/LICENSE",
+	"options": {},
+	"platforms": []
+}
