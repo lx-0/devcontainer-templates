@@ -1,0 +1,11 @@
+{
+	"id": "universal-arm64",
+	"version": "0.1.0",
+	"name": "Universal for arm64",
+	"description": "A modified version of the universal template for arm64",
+	"documentationURL": "https://github.com/lx-0/devcontainer-templates/tree/master/src/universal-arm64",
+	"publisher": "lx-0",
+	"licenseURL": "https://github.com/lx-0/devcontainer-templates/blob/master/LICENSE",
+	"options": {},
+	"platforms": []
+}
